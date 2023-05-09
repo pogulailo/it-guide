@@ -23,4 +23,4 @@
 + **Sales Manager** - Менеджер з продажу
 + **Account Manager** - Акаунт менеджер
 + **Copywriter** - Копірайтер
-+ **Designer** - Дизайнер
++ **UI/UX Designer** - Графічний дизайнер
