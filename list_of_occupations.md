@@ -2,21 +2,23 @@
 
 ## Технічні професії
 
-+ Інженер зі штучного інтелекту (AI Engineer)
-+ Розробник повного циклу (Full-Stack Developer)
-+ Архітектор хмарних обчислень (Cloud Architect)
-+ DevOps Engineer
-+ Блокчейн-інженер (Blockchain Engineer)
-+ Архітектор програмного забезпечення (Software Architect)
-+ Інженер даних (Big Data Engineer)
-+ IoT Architect
-+ Фахівець з вивчення даних (Data Scientist)
++ **Frontend Developer**
++ **Backend Developer**
++ **Full-Stack Developer**
++ **AI Engineer** - Інженер зі штучного інтелекту
++ **Cloud Architect** - Архітектор хмарних обчислень
++ **DevOps Engineer**
++ **Blockchain Engineer** - Блокчейн-інженер
++ **Software Architect** - Архітектор програмного забезпечення
++ **Big Data Engineer** - Інженер даних
++ **IoT Architect**
++ **Data Scientist** - Фахівець з вивчення даних
 
-## Нетехнічні нетехнічні
+## Нетехнічні професії
 
-+ Менеджер з продуктів (Product Manager)
-+ Рекрутер (Recruiter)
-+ Менеджер по роботі з персоналом (Human Resources)
-+ Менеджер з продажу (Sales Manager)
-+ Акаунт менеджер (Account Manager)
-+ Копірайтер (Copywriter)
++ **Product Manager** - Менеджер з продуктів
++ **Recruiter** - Рекрутер
++ **Human Resources** - Менеджер по роботі з персоналом
++ **Sales Manager** - Менеджер з продажу
++ **Account Manager** - Акаунт менеджер
++ **Copywriter** - Копірайтер
