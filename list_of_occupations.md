@@ -13,6 +13,7 @@
 + **Big Data Engineer** - Інженер даних
 + **IoT Architect**
 + **Data Scientist** - Фахівець з вивчення даних
++ **QA Engineer** - Тестувальник ПЗ
 
 ## Нетехнічні професії
 
@@ -22,3 +23,4 @@
 + **Sales Manager** - Менеджер з продажу
 + **Account Manager** - Акаунт менеджер
 + **Copywriter** - Копірайтер
++ **Designer** - Дизайнер
